@@ -1,0 +1,22 @@
+{
+  "name": "raghav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "posttest": "echo I AM Post TEST",
+    "pretest": "echo I AM Pro TEST",
+    "test": "echo I AM THE TEST",
+    "hello": "echo Hello World"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.4.0",
+    "cypress-downloadfile": "^1.2.3"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
